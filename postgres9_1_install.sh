@@ -6,7 +6,7 @@ OPTDIR="/opt/postgres"
 
 PGREPO="/etc/yum.repos.d/pgdg-91-redhat.repo"
 
-PGMAINREPO=”/etc/yum.repos.d/amzn-main.repo”
+PGMAINREPO="/etc/yum.repos.d/amzn-main.repo"
 
 PGUPDATESREPO="/etc/yum.repos.d/amzn-updates.repo"
 
