@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# You can read the manual to understand this in my blog
+# http://birkoff.net/blog/set-up-a-monitor-in-cloudwatch-amazon-aws/
+
 export AWS_CLOUDWATCH_HOME=/home/user/monitoring/CloudWatch-1.0.12.1
 export JAVA_HOME=/home/user/jdk
 export AWS_CREDENTIAL_FILE=/home/user/monitoring/CloudWatch-1.0.12.1/credential-file
